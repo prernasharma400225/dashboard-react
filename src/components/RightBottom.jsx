@@ -3,30 +3,30 @@ import React from 'react'
 const RightBottom = () => {
     const card = [
     {
-      img: '../public/images1.jpg',
+      img: '/images1.jpg',
       title: 'Midnight Mischief Squad',
       sec: 'S1,Ep-3',
       time:'30mins 55sec'
     },
     {
-      img: '../public/images2.jpg',
+      img: '/images2.jpg',
       title: 'Legend of the emeraid Mist',
       sec: 'S2,Ep-1',
       time:'35mins 45sec'
     },
     {
-      img: '../public/images3.jpg',
+      img: '/images3.jpg',
       sec: 'S3,Ep-2',
       time:'35mins 05sec'
     },
     {
-      img: '../public/image4.avif',
+      img: '/image4.avif',
       title: 'Midnight Mischief Squad',
       sec: 'S1,Ep-3',
       time:'30mins 55sec'
     },
     {
-      img: '../public/images5.jpg',
+      img: '/images5.jpg',
       title: 'Legend of the emeraid Mist',
       sec: 'S2,Ep-1',
       time:'35mins 45sec'

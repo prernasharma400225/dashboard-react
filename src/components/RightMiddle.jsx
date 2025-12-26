@@ -6,7 +6,7 @@ import { FaPlay } from "react-icons/fa";
 const RightMiddle = () => {
   return (
     <div className='relative h-80 w-full'>
-              <img className='absolute w-full h-full  rounded-2xl   object-cover' src="../public/bg-image.jpg" alt="" />
+              <img className='absolute w-full h-full  rounded-2xl   object-cover' src="/bg-image.jpg" alt="" />
     
               <div className='absolute p-5 h-full  text-white flex flex-col justify-between'>
                 <h3 className='bg-[#80808051] w-fit py-1 px-3 rounded-full border border-gray-600'>🔥Now Trending</h3>
