@@ -3,40 +3,35 @@ import React from 'react'
 const RightBottom = () => {
     const card = [
     {
-      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMypDNwL4o1su-qj_qdREBcQmEFKTQLwJOLw&s',
+      img: '../src/assets/images1.jpg',
       title: 'Midnight Mischief Squad',
       sec: 'S1,Ep-3',
       time:'30mins 55sec'
     },
     {
-      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJRZnyjHnp9nl7aFYaN-PYxpSdXl4bmRYgTQ&s',
+      img: '../src/assets/images2.jpg',
       title: 'Legend of the emeraid Mist',
       sec: 'S2,Ep-1',
       time:'35mins 45sec'
     },
     {
-      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnwyrsGpGcqyYUc4tSK-yg7h-QqWlQTYKLLw&s',
+      img: '../src/assets/images3.jpg',
       sec: 'S3,Ep-2',
       time:'35mins 05sec'
     },
     {
-      img: 'https://img.freepik.com/fotos-premium/jornada-intergalactica-com-um-elenco-de-adoraveis-astronomos-de-desenhos-animados_916191-79911.jpg?w=360',
+      img: '../src/assets/image4.avif',
       title: 'Midnight Mischief Squad',
       sec: 'S1,Ep-3',
       time:'30mins 55sec'
     },
     {
-      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cN9dEZ8voJllGadJuL3a-CbkbN7Jc3HIIg&s',
+      img: '../src/assets/images5.jpg',
       title: 'Legend of the emeraid Mist',
       sec: 'S2,Ep-1',
       time:'35mins 45sec'
     },
-    {
-      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMypDNwL4o1su-qj_qdREBcQmEFKTQLwJOLw&s',
-      title: 'Rise of the Last Guardian',
-      sec: 'S3,Ep-2',
-      time:'35mins 05sec'
-    },
+   
   ]
   return (
     <div className='flex flex-col gap-3'>
